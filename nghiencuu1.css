@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+.khungchua{
+    max-width: 800px;
+    margin:  20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 10px solid  hsl(0, 1%, 72%);
+    text-align: center;
+}
+.khungdau{
+    border: 1px solid hotpink ;
+    margin-bottom: 10px;
+
+}
+.khungcuoi{
+    border: 2px solid forestgreen;
+    margin-top: 10px;
+}
+p{
+    color:forestgreen;
+}
+h1{
+    color:red
+}
+button{
+    color: yellowgreen;
+}
